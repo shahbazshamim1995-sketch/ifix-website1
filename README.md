@@ -1,2 +1,2 @@
-# ifix-website1
-iFix apple service center
+Final Production Website – iFix Apple Service Center
+City pages are SEO-only (hidden from menu).
